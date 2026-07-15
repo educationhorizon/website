@@ -354,6 +354,8 @@ section {
 
 #logo img {
     max-height: 57px;
+    width: auto;
+    object-fit: contain;
     vertical-align: middle;
     margin-right: 15px;
 }

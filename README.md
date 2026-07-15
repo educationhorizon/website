@@ -1,1 +1,1 @@
-This repository hosts the public website for Digital Inventions Consulting (Pty) Ltd.
+This repository hosts the public website for Education Horizon
